@@ -1,8 +1,8 @@
 Hello-World
 ===========
 
-My first repository on GitHub.
+## My first repository on GitHub.
 
-user.name: lhy
+* user.name: lhy
 
-date: 2014.12.05
+* date: 2014.12.05
